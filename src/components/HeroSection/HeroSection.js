@@ -23,9 +23,16 @@ const HeroSection = () => {
                      width: '50%',
                   }}
                >
-                  <Typography variant='h3' fontWeight={500} textAlign='center'>
-                     Best Food Waiting For Your Belly
+                  <Typography
+                     variant='h3'
+                     fontWeight={500}
+                     textAlign='center'
+                     color='#ffff'
+                  >
+                     Food That Satisfies the Taste Buds
                   </Typography>
+
+
 
                   <SearchBox>
                      <input

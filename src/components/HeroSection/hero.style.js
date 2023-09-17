@@ -3,7 +3,7 @@ import { Box, styled } from '@mui/material';
 export const HeroSectionWrapper = styled(Box)(({ theme }) => ({
    height: '70vh',
    width: '100%',
-   background: 'url(https://i.ibb.co/6RTZ812/bannerbackground.png)',
+   background: 'url(https://i.ibb.co/SdBcjpT/pancakes-2291908-1280.jpg)',
    backgroundPosition: 'center',
    backgroundSize: '115%',
 }));
